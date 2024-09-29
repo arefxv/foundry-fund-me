@@ -10,3 +10,6 @@
 [submodule "foundry-fund-me/lib/foundry-devops"]
 	path = foundry-fund-me/lib/foundry-devops
 	url = https://github.com/cyfrin/foundry-devops
+[submodule "foundr-simple-storage"]
+    path = foundr-simple-storage
+    url = https://github.com/your-username/foundr-simple-storage.git
